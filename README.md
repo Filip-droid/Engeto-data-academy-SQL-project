@@ -1,4 +1,4 @@
-# Engeto-data-academy-SQL-project
+# SQL-project
 The standard of living of the citizens of Czechia
 Jedná se o závěrečný projekt v ENGETO datové akademii.
 Zadání znělo:
